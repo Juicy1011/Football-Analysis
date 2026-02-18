@@ -1,0 +1,9 @@
+runs/
+output_videos/
+input_video/
+stubs/
+*.pt
+*.avi
+*.mp4
+*.pk1
+__pycache__/
